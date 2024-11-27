@@ -64,7 +64,9 @@ CMS 📝
 ## 🤝 Let's Connect!
 Feel free to reach out for collaborations or just a friendly chat about tech!
 
-[Add your preferred social media/contact links here]
+📫 How to Reach Me
+Feel free to reach out to me via:
 
----
-⚡ Fun Fact: [Add your fun fact here!]
+Email: developer15246@gmail.com
+LinkedIn: https://www.linkedin.com/in/muhammad-fayyaz-24a3a0255/
+
