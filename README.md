@@ -24,7 +24,7 @@ I specialize in the MERN stack and have extensive experience with modern web tec
 # Backend Development 🔧
 📦 Node.js
 ⚡ Express.js
-🐘 PHP
+🔥  Django
 🔺 Laravel
 
 # Databases 🗄️
