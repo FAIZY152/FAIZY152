@@ -4,8 +4,8 @@ Full Stack Developer passionate about crafting elegant solutions and building im
 I specialize in the MERN stack and have extensive experience with modern web technologies.
 
 ## 💫 About Me
-- 🚀 Full Stack Developer with expertise in **MERN Stack**
-- 💼 Also Work with **Laravel**, **Java Spring boot**, and **WordPress**
+- 🚀 Full Stack Developer with expertise in **MERN Stack** | **Next js** 
+- 💼 Also Work with **Laravel**, and **WordPress**
 - 🎯 Problem Solver with 200+ DSA questions solved
 - 🌱 Always learning and exploring new technologies
 - 💡 Love turning complex problems into simple, beautiful solutions
@@ -24,13 +24,14 @@ I specialize in the MERN stack and have extensive experience with modern web tec
 # Backend Development 🔧
 📦 Node.js
 ⚡ Express.js
-🔥 Spring Boot
+🔥 Next js
 🔺 Laravel
 
 # Databases 🗄️
 🍃 MongoDB
 🐬 MySQ
 🔄 Postgre SQL
+ 🐬 Prisma 
 
 CMS 📝
 # 📰 WordPress
