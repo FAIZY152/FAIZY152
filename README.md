@@ -5,8 +5,6 @@ I specialize in the MERN stack and have extensive experience with modern web tec
 
 ## 💫 About Me
 - 🚀 Full Stack Developer with expertise in **MERN Stack** | **Next js** 
-- 💼 Also Work with **Laravel**, and **WordPress**
-- 🎯 Problem Solver with 200+ DSA questions solved
 - 🌱 Always learning and exploring new technologies
 - 💡 Love turning complex problems into simple, beautiful solutions
 
