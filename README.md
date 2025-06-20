@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm Faizy
 
-Full Stack Developer passionate about crafting elegant solutions and building impactful web applications.
-I specialize in the MERN stack and have extensive experience with modern web technologies.
+I'm a passionate Full-Stack Developer with hands-on experience in building scalable web and mobile applications using the MERN stack, Next.js, and React Native. I have strong knowledge of both SQL and NoSQL databases, real-time tools like Socket.io, Redis, and Kafka, and experience working with Docker, GraphQL, Prisma, and microservices. During my internship at the UK Institute of IT in Peshawar, I worked on real-world projects, contributed to both monolithic and microservices-based systems, wrote test cases, and integrated OpenAI APIs into full-stack applications. I’ve also built and deployed two major projects: an AI SaaS platform and a FoodPanda clone, both using modern tools and best practices. I’m always eager to learn, build, and solve problems using clean and efficient code. I’m ready to bring value to any team looking for a dedicated and skilled developer.
 
 ## 💫 About Me
-- 🚀 Full Stack Developer with expertise in **MERN Stack** | **Next js** 
+- 🚀 Full Stack Developer with expertise in **MERN Stack** | **Next js** | **React Native** | **Laravel**
 - 🌱 Always learning and exploring new technologies
 - 💡 Love turning complex problems into simple, beautiful solutions
 
@@ -20,10 +19,20 @@ I specialize in the MERN stack and have extensive experience with modern web tec
 🚀 Tailwind 
 
 # Backend Development 🔧
+:
+
 📦 Node.js
+
 ⚡ Express.js
-🔥 Next js
+
+🔥 Next.js
+
 🔺 Laravel
+
+🧬 GraphQL
+📣 Kafka
+🧠 Redis
+🐳 Docker
 
 # Databases 🗄️
 🍃 MongoDB
