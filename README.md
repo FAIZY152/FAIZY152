@@ -32,6 +32,12 @@ Both built using modern tools and best practices.
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/007acc/FAIZY152" alt="All Time GitHub Contributions Chart" />
+</div>
+
 
 ---
 
