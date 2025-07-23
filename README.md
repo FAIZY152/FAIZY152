@@ -24,9 +24,7 @@ Both built using modern tools and best practices.
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZY152&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 
@@ -38,8 +36,6 @@ Both built using modern tools and best practices.
   <img src="https://ghchart.rshah.org/007acc/FAIZY152" alt="All Time GitHub Contributions Chart" />
 </div>
 
-
----
 
 ---
 
