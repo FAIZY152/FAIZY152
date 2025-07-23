@@ -22,21 +22,16 @@ Both built using modern tools and best practices.
 
 ### 📈 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZY152&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
----
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
 
-### 🏆 GitHub Trophies
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZY152&theme=tokyonight" alt="GitHub Streak" height="180" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FAIZY152&theme=radical&margin-w=10&no-bg=true&no-frame=true"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+
+</div>
+
 
 ---
 
