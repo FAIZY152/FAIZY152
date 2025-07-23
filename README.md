@@ -16,6 +16,30 @@ I'm a passionate Full-Stack Developer with hands-on experience in building scala
 - **FoodPanda Clone**  
 Both built using modern tools and best practices.
 
+
+
+---
+
+### 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZY152&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FAIZY152&theme=radical&margin-w=10&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
 ---
 
 ### 💫 About Me
@@ -77,27 +101,7 @@ Both built using modern tools and best practices.
 - 🎨 Eye for UI/UX
 - 🤝 Collaborative team player
 
----
 
-### 📈 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAIZY152&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FAIZY152&theme=radical&margin-w=10&no-bg=true&no-frame=true"/>
-</p>
-
----
 
 ### 🤝 Let's Connect!
 🔗 Portfolio: [Muhammad Fayyaz](https://torp-em-anvp.vercel.app/)
