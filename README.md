@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Faizy</h1>
+<h1 align="center">👋 Muhammad Fayaz</h1>
 
 <p align="center">
   🔥 Passionate Full-Stack Developer | 💻 MERN Stack | ⚛️ React Native | 🌐 Next.js | 🤖 AI Integrator
