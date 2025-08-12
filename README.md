@@ -30,9 +30,9 @@ Both built using modern tools and best practices.
 
 <br/>
 
-<h3 align="center">🗓️ All-Time GitHub Contributions</h3>
+<h3 align="center">🗓️ GitHub Contributions</h3>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.5); display: inline-block;">
+<div align="center" style="background-color: green; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.5); display: inline-block;">
   <img src="https://ghchart.rshah.org/007acc/FAIZY152" alt="GitHub Contribution Chart" width="700" />
   <br />
   <sub style="color: #c9d1d9;">Includes public + private contributions across all years</sub>
