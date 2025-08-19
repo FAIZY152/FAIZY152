@@ -13,7 +13,8 @@ I'm a passionate Full-Stack Developer with hands-on experience in building scala
 🚀 During my internship at the **UK Institute of IT** in Peshawar, I worked on real-world projects—contributing to both monolithic and microservices-based systems, writing test cases, and integrating OpenAI APIs.  
 ✨ I’ve also built and deployed two major projects:  
 - **AI SaaS Platform**  
-- **FoodPanda Clone**  
+- **Food Ordering Plateform**
+- **Build upto 5 Backend Services and Integrate it in Frontend**  
 Both built using modern tools and best practices.
 
 
