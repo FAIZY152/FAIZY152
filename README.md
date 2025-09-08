@@ -46,38 +46,49 @@ Both built using modern tools and best practices.
 
 ### 🛠️ My Tech Stack
 
-#### 🎨 Frontend Development
-- ⚛️ React.js
-- ⚡ Next.js
-- 💻 JavaScript
-- 📄 HTML5
-- 🎨 CSS3
-- 🚀 Tailwind CSS
-- 🅱️ Bootstrap
+## 🛠️ My Tech Stack  
 
-#### 🔧 Backend Development
-- 📦 Node.js
-- ⚡ Express.js
-- 🔺 Laravel
-- 🧬 GraphQL
-- 📣 Kafka
-- 🧠 Redis
-- 🔥 Next.js (Full-stack)
-- 🐳 Docker
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+</p>
 
-#### 🗄️ Databases
-- 🍃 MongoDB
-- 🐬 MySQL
-- 🔄 PostgreSQL
-- 🔧 Prisma ORM
+<p align="center">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
+</p>
 
-#### 📝 CMS
-- 📰 WordPress
+<p align="center">
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
+</p>
 
-#### 🏗️ Architecture & Patterns
-- 🏛️ MVC
-- 🔄 RESTful APIs
-- 🎯 Microservices
+<p align="center">
+  <!-- CMS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+</p>
+
+<p align="center">
+  <!-- Cloud / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://api.iconify.design/logos/langchain-icon.svg" height="40" alt="LangChain" />
+  <img src="https://api.iconify.design/simple-icons/openai.svg" height="40" alt="AI" />
+</p>
 
 ---
 
@@ -92,7 +103,7 @@ Both built using modern tools and best practices.
 
 
 ### 🤝 Let's Connect!
-🔗 Portfolio: [Muhammad Fayyaz](https://torp-em-anvp.vercel.app/)
+🔗 Portfolio: [Muhammad Fayyaz](https://www.faizy.site/)
 📫 Email: [developer15246@gmail.com](mailto:developer15246@gmail.com)  
 🔗 LinkedIn: [Muhammad Fayyaz](https://www.linkedin.com/in/muhammad-fayyaz-24a3a0255/)
 
