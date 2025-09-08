@@ -44,8 +44,6 @@ Both built using modern tools and best practices.
 
 ---
 
-### 🛠️ My Tech Stack
-
 ## 🛠️ My Tech Stack  
 
 <p align="center">
@@ -55,15 +53,15 @@ Both built using modern tools and best practices.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 <p align="center">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
@@ -85,9 +83,9 @@ Both built using modern tools and best practices.
 
 <p align="center">
   <!-- Cloud / AI -->
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVPthZfM3vA49VZ_2GHG9DT5zFdZ2_C5oYw&s)" height="40" alt="AWS" />
-  <img src="https://api.iconify.design/logos/langchain-icon.svg" height="40" alt="LangChain" />
-  <img src="https://api.iconify.design/simple-icons/openai.svg" height="40" alt="AI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png" height="40" alt="LangChain" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" height="40" alt="OpenAI" />
 </p>
 
 ---
