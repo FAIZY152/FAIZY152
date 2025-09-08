@@ -85,7 +85,7 @@ Both built using modern tools and best practices.
 
 <p align="center">
   <!-- Cloud / AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVPthZfM3vA49VZ_2GHG9DT5zFdZ2_C5oYw&s)" height="40" alt="AWS" />
   <img src="https://api.iconify.design/logos/langchain-icon.svg" height="40" alt="LangChain" />
   <img src="https://api.iconify.design/simple-icons/openai.svg" height="40" alt="AI" />
 </p>
