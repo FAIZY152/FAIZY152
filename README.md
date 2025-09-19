@@ -23,11 +23,16 @@ Both built using modern tools and best practices.
 
 ### 📈 GitHub Stats & Contributions
 
+### 📈 GitHub Stats & Contributions
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
 </div>
+
 
 <br/>
 
