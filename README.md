@@ -18,14 +18,14 @@ integration, authentication, and responsive design.
 - **AI SaaS Platform**  
 - **Food Ordering Plateform**
 - **Led full development of “Recommendas,” a multi-tenant SaaS platform for managing recommendations**   
--- **Designed and implemented a unified microservices + monolithic hybrid architecture, ensuring scalability and 
-   performance for enterprise healthcare clients.**   
+- **Designed and implemented a unified microservices + monolithic hybrid architecture, ensuring scalability and 
+    performance for enterprise healthcare clients.**   
 - **Built a Unified Payment System supporting 5 SaaS products under a shared billing infrastructure using Stripe 
--- subscriptions and usage-based billing.**
--- **Integrated GraphQL, OpenAI APIs, Redis, and Kafka into scalable systems 
-● Dockerized microservices and ensured smooth production deployment 
-● Integrated services into React frontends with efficient state management and real-time features  
-● Contribute to building HMS, LMS with Laravel 
+   subscriptions and usage-based billing.**
+- **Integrated GraphQL, OpenAI APIs, Redis, and Kafka into scalable systems 
+- Dockerized microservices and ensured smooth production deployment 
+- Integrated services into React frontends with efficient state management and real-time features  
+- Contribute to building HMS, LMS with Laravel** 
 
 
 
