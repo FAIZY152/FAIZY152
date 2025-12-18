@@ -1,23 +1,55 @@
 <h1 align="center">👋 Muhammad Fayaz</h1>
 
 <p align="center">
-  🔥 Passionate Full-Stack Developer | 💻 MERN Stack | ⚛️ React Native | 🌐 Dev Ops | 🤖 AI Integrator
+  🔥 Passionate Full-Stack Developer | 💻 MERN Stack | ⚛️ React Native | 🌐 Dev Ops | 🤖 AI Integration
 </p>
 
 ---
 
 ### 🧠 Summary
 
-I'm a passionate Full-Stack Developer with hands-on experience in building scalable web and mobile applications using the MERN stack, Next.js, and React Native. I have strong knowledge of both SQL and NoSQL databases, real-time tools like Socket.io, Redis, and Kafka, and experience working with Docker, GraphQL, Prisma, and microservices.
+I’ve spent the last 3+ years working as a full-stack developer with the MERN stack, Next.js and Laravel where I built and 
+deployed real-world monolithic and microservices-based applications. Later completed a remote, self-paced internship at 
+Mentoga, working on practical, industry-level projects. Built AI SaaS platforms, e-commerce apps, and dashboards using 
+modern tools like GraphQL, Redis, RabbitMQ and OpenAI APIs. Gained hands-on experience in Docker, testing, API 
+integration, authentication, and responsive design. 
 
-🚀 During my internship at the **UK Institute of IT** in Peshawar, I worked on real-world projects—contributing to both monolithic and microservices-based systems, writing test cases, and integrating OpenAI APIs.  
 ✨ I’ve also built and deployed my major projects:  
 - **AI SaaS Platform**  
 - **Food Ordering Plateform**
-- **Build upto 5 Backend Services and Integrate it in Frontend**  
-Both built using modern tools and best practices.
+- **Led full development of “Recommendas,” a multi-tenant SaaS platform for managing professional recommendations, 
+-- compliance checks, and agency workflows. 
+-- ● Designed and implemented a unified microservices + monolithic hybrid architecture, ensuring scalability and 
+-- performance for enterprise healthcare clients. 
+-- ● Built a Unified Payment System supporting 5 SaaS products under a shared billing infrastructure using Stripe 
+-- subscriptions and usage-based billing.**  
+-- **● Integrated GraphQL, OpenAI APIs, Redis, and Kafka into scalable systems 
+● Dockerized microservices and ensured smooth production deployment 
+● Integrated services into React frontends with efficient state management and real-time features  
+● Contribute to building HMS, LMS with Laravel 
+● Delivered and contributed to monolithic applications using the MERN stack, later transitioning them into 
+scalable microservices for industry-grade architecture. 
+● Built a microservices-based system with 5 core services (Auth, Catalog, Order, Notification, and supporting 
+services) using the MERN stack. 
+● Built a secure, production-grade Auth service from scratch with JWT authentication, role-based access control, 
+and token refresh. 
+● Implemented Redis caching for faster queries, RabbitMQ message queues for reliable async communication, and 
+WebSockets for real-time updates. 
+● Developed Catalog & Order services with scalable APIs, ensuring high availability and efficient request handling. 
+● Integrated  services into React + Next.js frontend, delivering a seamless user experience across distributed 
+components.**
 
 
+ Languages:  JavaScript, Typescript, PHP, Python  
+● Frontend:  React.js, Next.js, Tailwind CSS, Shade Cn, Ant Design 
+● Backend:  Node.js, Express.js, GraphQL, Laravel 
+● Databases:   MongoDB, PostgreSQL, MySQL, Prisma ORM, Type Orm 
+● State Management:    Redux Toolkit, Zustand 
+● DevOps & Deployment:  Docker, CICD, Github Actions, Vercel, Railway, Netlify  
+● Caching & Optimization:   Redis, Rabbit MQ  
+● Gen AI: AI integration in Web apps, Langchain, Chatbots 
+● Tools & Other: Testing (Vitest, Jest), Github, Figma 
+● Soft Skills: Teaching, Excellent communication 
 
 ---
 
