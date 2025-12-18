@@ -28,20 +28,6 @@ integration, authentication, and responsive design.
 - Contribute to building HMS, LMS with Laravel** 
 
 
-
- Languages:  JavaScript, Typescript, PHP, Python  
-● Frontend:  React.js, Next.js, Tailwind CSS, Shade Cn, Ant Design 
-● Backend:  Node.js, Express.js, GraphQL, Laravel 
-● Databases:   MongoDB, PostgreSQL, MySQL, Prisma ORM, Type Orm 
-● State Management:    Redux Toolkit, Zustand 
-● DevOps & Deployment:  Docker, CICD, Github Actions, Vercel, Railway, Netlify  
-● Caching & Optimization:   Redis, Rabbit MQ  
-● Gen AI: AI integration in Web apps, Langchain, Chatbots 
-● Tools & Other: Testing (Vitest, Jest), Github, Figma 
-● Soft Skills: Teaching, Excellent communication 
-
----
-
 ### 📈 GitHub Stats & Contributions
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
