@@ -17,27 +17,16 @@ integration, authentication, and responsive design.
 ✨ I’ve also built and deployed my major projects:  
 - **AI SaaS Platform**  
 - **Food Ordering Plateform**
-- **Led full development of “Recommendas,” a multi-tenant SaaS platform for managing professional recommendations, 
--- compliance checks, and agency workflows. 
--- ● Designed and implemented a unified microservices + monolithic hybrid architecture, ensuring scalability and 
--- performance for enterprise healthcare clients. 
--- ● Built a Unified Payment System supporting 5 SaaS products under a shared billing infrastructure using Stripe 
--- subscriptions and usage-based billing.**  
--- **● Integrated GraphQL, OpenAI APIs, Redis, and Kafka into scalable systems 
+- **Led full development of “Recommendas,” a multi-tenant SaaS platform for managing recommendations**   
+-- **Designed and implemented a unified microservices + monolithic hybrid architecture, ensuring scalability and 
+   performance for enterprise healthcare clients.**   
+-- **Built a Unified Payment System supporting 5 SaaS products under a shared billing infrastructure using Stripe 
+-- subscriptions and usage-based billing.**
+-- **Integrated GraphQL, OpenAI APIs, Redis, and Kafka into scalable systems 
 ● Dockerized microservices and ensured smooth production deployment 
 ● Integrated services into React frontends with efficient state management and real-time features  
 ● Contribute to building HMS, LMS with Laravel 
-● Delivered and contributed to monolithic applications using the MERN stack, later transitioning them into 
-scalable microservices for industry-grade architecture. 
-● Built a microservices-based system with 5 core services (Auth, Catalog, Order, Notification, and supporting 
-services) using the MERN stack. 
-● Built a secure, production-grade Auth service from scratch with JWT authentication, role-based access control, 
-and token refresh. 
-● Implemented Redis caching for faster queries, RabbitMQ message queues for reliable async communication, and 
-WebSockets for real-time updates. 
-● Developed Catalog & Order services with scalable APIs, ensuring high availability and efficient request handling. 
-● Integrated  services into React + Next.js frontend, delivering a seamless user experience across distributed 
-components.**
+
 
 
  Languages:  JavaScript, Typescript, PHP, Python  
