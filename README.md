@@ -20,7 +20,7 @@ integration, authentication, and responsive design.
 - **Led full development of “Recommendas,” a multi-tenant SaaS platform for managing recommendations**   
 -- **Designed and implemented a unified microservices + monolithic hybrid architecture, ensuring scalability and 
    performance for enterprise healthcare clients.**   
--- **Built a Unified Payment System supporting 5 SaaS products under a shared billing infrastructure using Stripe 
+- **Built a Unified Payment System supporting 5 SaaS products under a shared billing infrastructure using Stripe 
 -- subscriptions and usage-based billing.**
 -- **Integrated GraphQL, OpenAI APIs, Redis, and Kafka into scalable systems 
 ● Dockerized microservices and ensured smooth production deployment 
