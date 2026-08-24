@@ -4,7 +4,7 @@
 
 I build **scalable SaaS platforms, cloud-native applications, and AI-powered products** with a focus on architecture, performance, and production reliability.
 
-💼 **4+ years** of software engineering experience
+💼 **3+ years** of software engineering experience
 🏗️ **SaaS & Microservices Architecture**
 ☁️ **AWS + Docker + CI/CD**
 ⚡ **Performance & Scalable APIs**
