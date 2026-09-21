@@ -1,6 +1,6 @@
 # 👋 Muhammad Fayaz
 
-### 🚀 Full Stack Software Engineer | Associate Software Architect | SaaS Developer
+### 🚀 Full Stack Software Engineer | Applied AI Engineer | Cloud & Dev ops
 
 I build **scalable SaaS platforms, cloud-native applications, and AI-powered products** with a focus on architecture, performance, and production reliability.
 
