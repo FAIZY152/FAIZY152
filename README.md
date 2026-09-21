@@ -62,8 +62,14 @@ I build **scalable SaaS platforms, cloud-native applications, and AI-powered pro
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&hide_border=true" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FAIZY152&show_icons=true&hide_border=true&count_private=true&theme=default"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAIZY152&layout=compact&hide_border=true&theme=default"
+    height="160"
+  />
 </p>
 
 ---
@@ -74,11 +80,17 @@ I build **scalable SaaS platforms, cloud-native applications, and AI-powered pro
   <a href="https://torp-em.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-faizy.site-black?style=for-the-badge" />
   </a>
+
   <a href="https://www.linkedin.com/in/muhammad-fayyaz-24a3a0255/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Fayaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:developer15246@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/EDkdAXC1AC/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
