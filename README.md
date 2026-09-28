@@ -33,12 +33,10 @@ I build **scalable SaaS platforms, cloud-native applications, and AI-powered pro
 
 ## 📈 Production Impact
 
-* 🏢 Delivered **4+ production SaaS platforms**
+* 🏢 Delivered **production SaaS platforms**
 * ☁️ Architected shared **AWS ECS Fargate infrastructure for 5 SaaS applications**
 * 💰 Reduced cloud infrastructure costs by **~35%**
 * ⚡ Achieved **99.9% production uptime**
-* 🏆 Recommendas: **3 organizations · 500+ recommendations**
-* 👥 Chronoca: **2 organizations · 50+ employees**
 * 🌍 Balady Platform: **4 companies · 180+ customers · 100+ monthly applications**
 
 ---
